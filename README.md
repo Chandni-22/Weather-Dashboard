@@ -2,6 +2,8 @@
 
 A sleek and responsive **Weather Dashboard** that provides real-time weather updates for any city, along with a 5-day forecast. 🌍🌤️
 
+![image](https://github.com/user-attachments/assets/9ae48d61-0cd8-461f-aa52-94e8c2688605)
+
 ---
 
 ## ✨ **Features**
